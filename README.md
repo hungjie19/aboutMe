@@ -24,9 +24,9 @@
 	* Publish to iBooks Store
 	* epubcheck
 	* ePubPack
-* C# & ASP.NAT
+* C# & ASP.NET
 	* Read XML than hard code write to HTML5 tag
-	* write JSON use JSON.nat
+	* write JSON use JSON.net
 * Data Base
 	* SQL Server 2003
 		
