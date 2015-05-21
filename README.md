@@ -5,21 +5,13 @@
 * Education : 南台科技大學 - 資訊管理系碩士
 * Latest Portfolio :
 	* 參與社群活動 : 高雄前端社群
-	* [參與其他技術社群活動...](http://hungjie19.github.io/hexoblog/tags/workshop/)
+	* 積極參與技術研討會
+		* Agile / Scrum workshop
+		* Git / GitHub 版本控制
 * Company : Taiwan
 * Location : Kaohsiung
 * E-Mail : hungjie19@gmail.com
 * Mobile : 0932-786-015  
-
-
-# 2015 精進目標 
-
-* Responsive Web Design
-* Application API
-* D3.js
-* React.js
-* Node.js
-* Ruby on Rails
 
 # Professional Tools
 
@@ -52,6 +44,14 @@
 * 做中學熱愛前端技術類文章，追求新的知識
 * 喜歡創新、注重團隊溝通與細節
 * 快速融入並為團隊創造好的工作氛圍
+
+
+# 2015 精進目標 
+
+* Responsive Web Design
+* Application API
+* D3.js
+* React.js
 
 # 工作期望
 
