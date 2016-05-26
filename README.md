@@ -1,58 +1,67 @@
-# 洪宏杰 (Jacky) 
-
-* Personal Blog: http://hungjie19.github.io/hexoblog
-* Date of Birth: Jan 19th , 1987
-* Education : 南台科技大學 - 資訊管理系碩士
-* Latest Portfolio:
-	* 參與社群活動: 
-		* [mopcon 2015 工作人員](http://mopcon.org/2015/)
-		* [高雄前端社群](https://www.facebook.com/groups/358503154261390/)
-		* [高雄前端社群分享 #19 GitHub Service](http://www.slideshare.net/hungjie19/19-github-service)
-		* Agile / Scrum workshop
-		* Git / GitHub 版本控制
-* Company: Taiwan / Kaohsiung
-* E-Mail: hungjie19@gmail.com
-* Mobile: 0932-786-015  
+# 洪宏杰 ( Jacky.H.Hung ) 
+- Personal Blog: [Jacky's Node](http://hungjie19.github.io/hexoblog)
+- Date of Birth: Jan 19th , 1987
+- Education : 南台科技大學 - 資訊管理系碩士
+- Company: Taiwan / Kaohsiung
+- E-Mail: hungjie19@gmail.com
+- Mobile: 0932-786-015  
 
 ## Professional Tools
+- Scripting and Programming Language
+	- AngularJS
+	- JavaScript / jQuery Plugin
+	- NodeJS
+- CSS3
+	- sass / scss
+	- Responsive Web Design
+	- CSS3 framework: Bootstrap
+- EPUB3
+	- Markdown
+	- gitbook
+	- iBooks Store
 
-* Scripting and Programming Language
-	* AngularJS
-	* JavaScript / jQuery Plugin
-	* NodeJS
-* HTML & CSS3
-	* sass compass
-	* CSS3 framework: Bootstrap
-* EPUB3
-	* Publish to iBooks Store
-	* epubcheck
-	* ePubPack
-	* gitbook
+## Professional Skill:
+- JavaScript 前端技術
+- 透過 RESTful api 與後端溝通合作
+- 熟悉 CSS3 與 Responsive Web Design
+- 熱愛 web 技術
+
+## Latest Portfolio:
+- [mopcon 工作人員](http://mopcon.org/2015/)
+	- 2015 議程組
+	- 2016 議程組
+- [高雄前端社群](https://www.facebook.com/groups/358503154261390/)
+	- [(分享)高雄前端社群#19 - GitHub Service](http://www.slideshare.net/hungjie19/19-github-service)
+	- [(助教)高雄前端社群#20 - 潮到不行的 Node.js workshop](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec-eb381d-6b57e9-3a5710)
+	- [連猴子都懂的Git入門指南 workshop](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec)
+	- [高雄前端社群#21 - React Party](http://gonsakon-7655f2.kktix.cc/events/a5791ac5-f60f9c-cc9dec-eb381d-6b57e9-3a5710-61e623-253f1a)
+- [高雄 JS 讀書會](https://www.facebook.com/groups/1140185326027725/)
+	- [JS設計模式讀書會(7) 導讀](https://www.facebook.com/events/1329806290382362/)
+- [soft & share 線上讀書會](https://softnshare.wordpress.com/)
+	- [ReactJS](https://softnshare.wordpress.com/slack/forum-reactjs/)
+		- [Hello reactJS 0~1 Bulid my first web app](http://www.slideshare.net/hungjie19/hello-reactjs-01-bulid-my-first-web-app)
+	- [NodeJS](https://softnshare.wordpress.com/slack/forum-nodejs/)
+		- 第五章導讀
+	- [AngularJS](https://softnshare.wordpress.com/slack/angularjs/)
+	- [JavaScript](https://softnshare.wordpress.com/slack/javascript/)
+- [TaiwanLeft MOOCs - 不只是簡報](http://taiwanlife.org/admin/tool/mooccourse/mnetcourseinfo.php?hostid=7&id=90)	
+- Agile / Scrum workshop
+- Git / GitHub 版本控制
 		
-## Professional Skill
+## Personal Attributes:
+- 做中學熱愛前端技術類文章，追求新的知識
+- 喜歡創新、注重團隊溝通與細節
+- 快速融入並為團隊創造好的工作氛圍
+- 經常發表學習心得文章
+- 主動於公司內部與社群中分享學習心得
+- 並在公司內部發起前端技術討論會
 
-* HTML5 & EPUB3互動式電子書開發
-* 熟悉 HTML5、CSS3、JavaScript、jQuery 等..技術
-* 對新技術研究有熱情
-* 擅於與團隊溝通，相互瞭解開發狀況
-* 經常發表相關技術心得文章
+## 2016 精進目標：
+- NodeJS
+- ReactJS
 
-## Personal Attributes
-
-* 做中學熱愛前端技術類文章，追求新的知識
-* 喜歡創新、注重團隊溝通與細節
-* 快速融入並為團隊創造好的工作氛圍
-
-## 2015 精進目標 
-
-* AngularJS
-* Responsive Web Design
-* nodeJS
-* ReactJS
-
-# 工作期望
-
-* 高雄
-* 前端工程師
-* 周休二日
-* 開發環境 Mac
+# 工作期望：
+- 高雄
+- 前端工程師 (AngularJS, ReactJS)
+- 開發環境 Mac
+- 周休二日
