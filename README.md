@@ -42,7 +42,7 @@
 - use scss to build module web app CSS
 - Responsive Web Design
 - use Grunt / Gulp Automatically and simplify workflow
-- feel enthusiastic in web technology
+- enthusiasm for web technology
 
 ## Latest Portfolio:
 - [mopcon 工作人員](http://mopcon.org/2015/)
