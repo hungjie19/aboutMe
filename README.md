@@ -24,8 +24,6 @@
 - Version Control
 	- Git
 		- GitHub, GitLab
-	- TFS
-	- VSS
 - software development process
 	- Agile - scrum
 - project management
